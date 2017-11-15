@@ -1,0 +1,25 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  background-color: white;
+}
+.main {
+  background-color: orange;
+}
+.footer {
+  background-color: burlywood;
+}
+.brand {
+  padding: 10px;
+  float: left;
+}
+.menu {
+  float: right;
+}
+#logo {
+  width: 64px;
+  height: 64px;
+}
